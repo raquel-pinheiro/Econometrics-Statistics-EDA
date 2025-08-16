@@ -1,1 +1,1 @@
-# Statistics
+# Economical, financial, and statistical analysis
